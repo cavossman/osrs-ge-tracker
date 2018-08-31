@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{357F7807-7398-4D01-BD8B-4AB77DB0F0EA}|Default">
+  <MonoDevelop.Ide.ItemProperties.aspnet-refresher PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="aspnet-refresher/Models/Item.cs">
+    <Files>
+      <File FileName="aspnet-refresher/Views/GrandExchange/Index.cshtml" Line="9" Column="7" />
+      <File FileName="aspnet-refresher/Controllers/GrandExchange.cs" Line="33" Column="26" />
+      <File FileName="aspnet-refresher/Models/Item.cs" Line="32" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

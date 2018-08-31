@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="LowercaseRoutesMVC" Version="1.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\EmptyClass.cs" />
+    <Compile Remove="Models\Startup.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\GrandExchange\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Views\GrandExchange\GrandExchange.cshtml" />
+    <Content Remove="Views\Home\Project.cshtml" />
+  </ItemGroup>
+</Project>
